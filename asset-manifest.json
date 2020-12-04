@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-sample/static/css/main.37f611b1.chunk.css",
+    "main.js": "/portfolio-sample/static/js/main.cea1deaf.chunk.js",
+    "main.js.map": "/portfolio-sample/static/js/main.cea1deaf.chunk.js.map",
+    "runtime-main.js": "/portfolio-sample/static/js/runtime-main.0b8107c3.js",
+    "runtime-main.js.map": "/portfolio-sample/static/js/runtime-main.0b8107c3.js.map",
+    "static/js/2.5886da71.chunk.js": "/portfolio-sample/static/js/2.5886da71.chunk.js",
+    "static/js/2.5886da71.chunk.js.map": "/portfolio-sample/static/js/2.5886da71.chunk.js.map",
+    "index.html": "/portfolio-sample/index.html",
+    "precache-manifest.1410c66b1004fbe79f7ad81c2b4271d5.js": "/portfolio-sample/precache-manifest.1410c66b1004fbe79f7ad81c2b4271d5.js",
+    "service-worker.js": "/portfolio-sample/service-worker.js",
+    "static/css/main.37f611b1.chunk.css.map": "/portfolio-sample/static/css/main.37f611b1.chunk.css.map",
+    "static/js/2.5886da71.chunk.js.LICENSE.txt": "/portfolio-sample/static/js/2.5886da71.chunk.js.LICENSE.txt",
+    "static/media/uStoreCEO.png": "/portfolio-sample/static/media/uStoreCEO.12ee46e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8107c3.js",
+    "static/js/2.5886da71.chunk.js",
+    "static/css/main.37f611b1.chunk.css",
+    "static/js/main.cea1deaf.chunk.js"
+  ]
+}
